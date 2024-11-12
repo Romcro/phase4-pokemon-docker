@@ -123,4 +123,4 @@ Ce projet est sous licence MIT.
 
 ---
 
-Ce README explique comment installer et exécuter le projet à la fois en local et dans un environnement Docker.
+
