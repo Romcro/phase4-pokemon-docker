@@ -1,4 +1,3 @@
-Voici une version adaptée de votre README pour inclure les instructions Docker :
 
 ---
 
